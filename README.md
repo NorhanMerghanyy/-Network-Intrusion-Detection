@@ -1,5 +1,6 @@
 # -Network-Intrusion-Detection
-Kaggle competition for building a machine learning model that detect network intrusions by training it with a dataset.
+    
+Kaggle competition for building a machine learning model that detects malicious traffic on a network by training it with a dataset.
   
   -First loading the needed libraries.
   
