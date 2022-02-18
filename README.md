@@ -1,4 +1,4 @@
-# -Network-Intrusion-Detection
+# Network-Intrusion-Detection
     
 Kaggle competition for building a machine learning model that detects malicious traffic on a network by training it with a dataset.
   
